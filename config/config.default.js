@@ -29,6 +29,7 @@ module.exports = appInfo => {
       user: 'root',
       // 密码
       password: '123456',
+      // password: '1234', // TODO: git前撤销
       // 数据库名
       database: 'testadmin',
     },
